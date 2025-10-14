@@ -14,12 +14,13 @@ button {
     padding: 10px 20px;
     background-color: #deb887;
     color: #fff;
-    border: none;
+    border: medium solid black;
     cursor: pointer;
 }
 
 button:hover {
     background-color: #d2b48c;
 }
+
 
 
