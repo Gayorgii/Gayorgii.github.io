@@ -18,7 +18,7 @@ img {
 
 button {
     padding: 3% 4%;
-    background: transparent;
+    background-color: #f0f0f0;
     border: none !important;
     position: absolute;
     left: 42%;
@@ -29,4 +29,5 @@ button {
 button:hover {
     background-color: #f0f0f0;
 }
+
 
