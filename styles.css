@@ -7,28 +7,30 @@ body {
 }
 
 h1 {
+    
+    left:200px;
+    position:absolute;
+    top:0px;
     color: #deb887;
 }
 
 img {
-    width: 100%;
+    width: 900px;
     position: absolute;
-    left:0%;
+    left: 10px;
+    top:70px;
 }
 
 button {
-    padding: 3% 4%;
-    background-color: #f0f0f0;
+    padding: 30px 40px;
+    background: transparent;
     border: none !important;
     position: absolute;
-    left: 42%;
-    top: 150px;
+    left: 385px;
+    top: 505px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #f0f0f0;
+    background: transparent;
 }
-
-
-
