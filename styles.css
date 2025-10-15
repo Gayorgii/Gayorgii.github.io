@@ -10,17 +10,22 @@ h1 {
     color: #deb887;
 }
 
+img {
+    width: 100%;
+    position: absolute;
+    left:0%;
+}
+
 button {
-    padding: 10px 20px;
-    background-color: #deb887;
-    color: #fff;
-    border: medium solid black;
+    padding: 3% 4%;
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 42%;
+    top: 75%;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #d2b48c;
+    background: transparent;
 }
-
-
-
